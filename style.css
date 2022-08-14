@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logo {
+    height: 100px;
+    margin: 2rem;
+}
+
+h1 {
+    width: 20ch;
+    text-align: center;
+}
+
+p {
+    width: 10cm;
+}
+
+.father {
+    display: flex;
+    padding-bottom: 10mm;
+    position: relative;
+}
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.item img {
+    width: 100px;
+    border-radius: 100%;
+}
+.item p {
+    width: auto;
+}
+
+.img {
+    display: flex;
+}
+
+.father2 {
+    display: flex;
+    margin: 0;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.item2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.item2 img {
+    width: 100px;
+    border-radius: 100%;
+}
+
+.tab {
+    text-align: center;
+    font-style: italic;
+    white-space: nowrap;
+    padding-right: 100mm;
+}
+
+.p1 {
+    padding-top: 5mm;
+}
+.p2 {
+    padding-top: 5mm;
+}
+
+.p3 {
+    padding-top: 5mm;
+}
+.p4 {
+    padding-top: 5mm;
+}
+.tab2 {
+    text-align: center;
+    width: 5cm;
+}
+
+.tab3 {
+    width: 5cm;
+}
+
+.good {
+    white-space: nowrap;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-right: 200mm;
+}
+
+h2 {
+    font-size: 15px;
+    padding-right: 12cm;
+    padding-top: 50px;
+}
+
+.new {
+    padding-top: 5mm;
+    padding-right: 125mm;
+    white-space: nowrap;
+}
+
+.me {
+    white-space: nowrap;
+    padding-top: 10mm;
+}
+.me1 {
+    white-space: nowrap;
+    padding-right: 23cm;
+    padding-top: 2mm;
+    font-size: 30px;
+}
+
+.me2 {
+    padding-right: 23cm;
+    font-size: 30px;
+}
+
+.shimul {
+    display: flex;
+    margin: 0;
+}
+
+.shimul img {
+    width: 100px;
+    border-radius: 100%;
+    padding-top: 2cm;
+}
+
+.jk {
+    white-space: nowrap;
+    padding-right: 18cm;
+    padding-top: 2cm;
+}
+.father3 {
+    display: flex;
+    padding-right: 11cm;
+    padding-top: 2cm;
+}
+
+.ft1 {
+    width: 200px;
+    border-radius: 100%;
+}
+
+.pft1 {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10mm;
+}
+.sd1 {
+    padding-top: 12px;
+}
+.gt1 {
+    padding-top: 6mm;
+}
+.father4 {
+    display: flex;
+    padding-right: 11cm;
+    padding-top: 2cm;
+}
+
+.ft2 {
+    width: 200px;
+    border-radius: 100%;
+}
+
+.pft2 {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10mm;
+    width: 100px;
+}
+.sd2 {
+    padding-top: 12px;
+}
+.gt2 {
+    padding-top: 6mm;
+}
+.father5 {
+    display: flex;
+    padding-right: 11cm;
+    padding-top: 2cm;
+}
+
+.ft3 {
+    width: 200px;
+    border-radius: 100%;
+}
+
+.pft3 {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10mm;
+}
+
+.sd3 {
+    padding-top: 12px;
+}
+
+.gt3 {
+    padding-top: 6mm;
+}
+
+.logo2 img {
+    width: 100px;
+    padding-top: 5cm;
+}
+
+.h11 {
+    white-space: nowrap;
+    padding-top: 4mm;
+}
+
+.img2 {
+    display: flex;
+}
+
+.cr img {
+    width: 200px;
+    padding-top: 5mm;
+}
+
+.dr img {
+    width: 200px;
+    padding-top: 5mm;
+}
+
+.br img {
+    width: 200px;
+    padding-top: 5mm;
+}
+
+.jh h1 {
+    width: 100px;
+    white-space: nowrap;
+    padding-right: 9cm;
+    padding-top: 2cm;
+}
